@@ -57,7 +57,7 @@ Detailed installation guides are available in the [wiki](https://trinitycore.inf
 Windows, Linux and macOS.
 
 
-## Reporting issues
+## Reporting issues.
 
 Issues can be reported via the [Github issue tracker](https://github.com/TrinityCore/TrinityCore/labels/Branch-master).
 
@@ -69,7 +69,7 @@ your report contains the required information. Incorrect or poorly formed
 reports are wasteful and are subject to deletion.
 
 
-## Submitting fixes
+## Submitting fixes.
 
 C++ fixes are submitted as pull requests via Github. For more information on how to
 properly submit a pull request, read the [how-to: maintain a remote fork](https://community.trinitycore.org/topic/9002-howto-maintain-a-remote-fork-for-pull-requests-tortoisegit/).
